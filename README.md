@@ -8,9 +8,13 @@ The talk will begin by revisiting the key predictions of the ACT-R based model o
 
 In the second part of the talk, I show one way that we can resolve these problems. In their classic paper, Roberts and Pashler (2000) laid out two important criteria for model evaluation: the model needs to make clear, constrained predictions, and the effect estimates have to be measured with high precision. To these, we add one more criterion: model evaluation should always be carried out in the context of a competing baseline model to be meaningful. As a case study for model evaluation, we compare the predictive performance (using k-fold cross-validation) of the LV05 model with a competing model of retrieval processes, the McElree 2003 direct-access model (Nicenboim and Vasishth, 2018). The evaluation data-set is a relatively high-precision study on inhibitory interference effects in German number agreement (Nicenboim, Vasishth, Engelmann, and Suckow, 2018).   
 
-I end with a discussion of ongoing work in my lab, which include (i) systematically developing higher-precision benchmark data for model evaluation;
-(ii) using approximate Bayesian Computation to arrive at realistic estimates of model parameters;  
-(iii) investigating the predictive performance of the LV05 and the direct-access model on individual-level effects in unimpaired controls as well as impaired populations (individuals with aphasia).  
+I end with a brief discussion of ongoing work in my lab, which include 
+
+- systematically developing higher-precision benchmark data for model evaluation;
+
+- using approximate Bayesian Computation to arrive at realistic estimates of model parameters;  
+
+- investigating the predictive performance of the LV05 and the direct-access model on individual-level effects in unimpaired controls as well as impaired populations (individuals with aphasia).  
 
 Selected references
 
