@@ -1,6 +1,6 @@
-Computational models of retrieval processes: An evaluation using benchmark data
+# Computational models of retrieval processes: An evaluation using benchmark data
 
-Shravan Vasishth (vasishth.github.io)
+Shravan Vasishth (vasishth.github.io)[vasishth.github.io]
 
 (Model development by: Felix Engelmann, Bruno Nicenboim, Lena Jäger)
 
